@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "productName": "Product 1",
+    "category": "Electronics",
+    "unitPrice": 19.99,
+    "description": "Description for Product 1",
+    "image": "product1.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "Product 2",
+    "category": "Clothing",
+    "unitPrice": 29.99,
+    "description": "Description for Product 2",
+    "image": "product2.jpg"
+  }
+]
